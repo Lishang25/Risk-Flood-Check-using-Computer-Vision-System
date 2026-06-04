@@ -1,10 +1,9 @@
 """
 ╔══════════════════════════════════════════════════════════════════╗
-║         AI FLOOD MONITORING & RISK PREDICTION SYSTEM            ║
+║         AI FLOOD MONITORING & RISK PREDICTION SYSTEM             ║
 ║                  Production-Grade Computer Vision                ║
 ╠══════════════════════════════════════════════════════════════════╣
-║  Dev/Creator : tubakhxn                                          ║
-║  GitHub      : https://github.com/tubakhxn                       ║
+║  Dev/Creator : Lishang Gajendra                                  ║
 ╚══════════════════════════════════════════════════════════════════╝
 """
 
@@ -308,7 +307,6 @@ if __name__ == "__main__":
     print(f"""
 ╔══════════════════════════════════════════════════════════╗
 ║     AI FLOOD MONITORING & RISK PREDICTION SYSTEM        ║
-║             tubakhxn  |  github.com/tubakhxn            ║
 ╚══════════════════════════════════════════════════════════╝
   Source  : {src}
   Device  : {GPU_NAME}
