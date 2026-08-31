@@ -9,7 +9,7 @@
 
 import subprocess, sys, os, time, importlib
 
-OUTPUT_FILE = "output_flood_monitoring_ai.mp4"
+OUTPUT_FILE = "output_flood_monitoring_ai.mp3"
 
 PACKAGES = [
     "ultralytics", "opencv-python", "numpy", "torch", "torchvision",
