@@ -307,7 +307,7 @@ if __name__ == "__main__":
     src = sys.argv[1] if len(sys.argv) > 1 else 0
     print(f"""
 ╔══════════════════════════════════════════════════════════╗
-║     AI FLOOD MONITORING & RISK PREDICTION SYSTEM        ║
+║     AI FLOOD MONITORING & RISK PREDICTION SYSTEM         ║
 ╚══════════════════════════════════════════════════════════╝
   Source  : {src}
   Device  : {GPU_NAME}
