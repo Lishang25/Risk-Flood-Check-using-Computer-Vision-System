@@ -35,7 +35,7 @@ def install_packages():
 
 install_packages()
 
-import cv2, numpy as np, torch, math
+import cv2, numpy as np,torch, math
 from datetime import datetime
 from collections import deque
 
